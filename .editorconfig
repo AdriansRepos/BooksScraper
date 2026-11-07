@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1859: Pokud je to možné, používejte konkrétní typy pro zvýšení výkonu.
+dotnet_diagnostic.CA1859.severity = none
