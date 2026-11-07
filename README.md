@@ -40,7 +40,7 @@ Services/            --> Domain logic and LINQ statistics
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/AdriansRepos/BooksToScrape.git](https://github.com/AdriansRepos/BooksToScrape.git)
+git clone [https://github.com/AdriansRepos/BookScraper.git](https://github.com/AdriansRepos/BookScraper.git)
 ```
 
 2. Navigate to the project directory:
