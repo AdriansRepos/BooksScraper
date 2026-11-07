@@ -45,7 +45,7 @@ git clone [https://github.com/AdriansRepos/BooksToScrape.git](https://github.com
 
 2. Navigate to the project directory:
 ```bash
-cd BooksToScrape
+cd BookScraper
 ```
 
 3. Run the application:
